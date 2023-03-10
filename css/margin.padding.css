@@ -2,5 +2,7 @@
 #exemplo{
     background-color: green;
     color: #fff;
-    width: 500px;
+    width: 600px;
+    margin: 50px;
+    pedding-top:20px
 }
