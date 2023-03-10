@@ -1,0 +1,11 @@
+*{margin: 0; padding: 0;}
+.texto-principal{
+    color: blue;
+}
+
+#texto1{
+    background-color: red;
+}
+#texto2{
+    background-color: darkgreen;
+}
